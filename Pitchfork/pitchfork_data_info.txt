@@ -1,0 +1,17 @@
+Average score: 7.039870627695255
+Median score: 7.3
+1/3rd Percentile: 6.8
+2/3rd Percentile: 7.6
+Total review: 20870
+Value counts: 0.0      5
+0.1      1
+0.2      5
+0.3      1
+0.4      4
+        ..
+9.6     15
+9.7     15
+9.8      7
+9.9      1
+10.0    99
+Name: score, Length: 101, dtype: int64

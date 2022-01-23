@@ -1,0 +1,11 @@
+Average score: 3.951819782647203
+Median score: 4.0
+1/3rd Percentile: 4.0
+2/3rd Percentile: 5.0
+Total review: 287919
+Value counts: 1.0     24892
+2.0     12220
+3.0     30984
+4.0    103595
+5.0    116228
+Name: star_rating, dtype: int64
